@@ -1,0 +1,75 @@
+dashboard content
++ home dashboard page
++ create new project
+    + name
+    + project link to see the project
+    + descritpion
+    + project category
+    + project video
+    + why this project
+    + what you wanna learn from this project (incomes)
+    + outcomes
+    + tasks (edit tasks file)
+    + start project date
+    + ends project date
++ edit profile data
+    + update user image
+    + update name 
+    + about me 
+    + add links
+        + github
+        + facebook
+        + linkedin
+        + gmail
+    + edit the username and password        
++ create nav items
+    + icon
+    + name
+    + tags
++ add new project ideas
+    + idea title
+    + idea descritpion
+    +
++ add interests
+    + interests name
+
+==================== database
+
++ settings (contains all the author user info)
+    + image
+    + about
+    + slug
+    + facebook
+    + linkedin
+    + github
+    + user_id
++ project
+    + name
+    + link
+    + descritpion
+    + category_id
+    + youtube link
+    + incomes
+    + outcomes
+    + started date
+    + end date    
++ tasks
+    + title
+    + description
+    + project_id
++ project category
+    + name
+    + icon
+    + tag
++ idea 
+    + name
+    + project category
++ interest
+    + title
+    + description
+
+
+
+
+
+
